@@ -10,7 +10,7 @@ Without a lot of details because how I already said, it's just for save my files
 - I was interested in Dart for a while
 - I like how it works
 
-### What is expected?
+### Expected
 <!-- What do you expect from learning this? -->
 I really don't know, i'm just learning.
 
