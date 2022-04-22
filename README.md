@@ -2,7 +2,7 @@
 <!-- Descript this repository, detail what you're learning. -->
 Repository to save my **Dart** files and my progress with the language.
 
-Without a lot of details because how I already said, it's just for save my files. And it will be good cause I'll know how much I grown and evolved with the language.
+Without a lot of details because how I already said, it's just to save my files. And it will be good cause I'll know how much I grown and evolved with the language.
 
 ### Reasons
 <!-- Why did you started to learn this? -->
