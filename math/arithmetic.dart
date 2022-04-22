@@ -1,7 +1,6 @@
 main() {
   var valor1 = 60;
   var valor2 = 10;
-  
   print("Valor 1 = $valor1\nValor 2 = $valor2\n");
   
   // Soma
